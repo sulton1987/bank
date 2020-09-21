@@ -6,5 +6,5 @@ type Cathegory string
 type Payment struct {
 	ID        int
 	Amount    Money
-	Cathegory Cathegory
+	Category Category
 }
